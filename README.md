@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Buchanan Patrick</h1>
-<h3 align="center">JS/Python developer</h3>
+<h1 align="left">Hi 👋, I'm Buchanan Patrick</h1>
+<h3 align="left">JS/Python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pypexpert5&label=Profile%20views&color=0e75b6&style=flat" alt="pypexpert5" /> </p>
 
